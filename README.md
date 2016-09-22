@@ -1014,8 +1014,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 26. Van Loey Jonas
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: jonas.vanloey@student.kdg.be
+	- GitHub: https://github.com/jonasvanloey/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
