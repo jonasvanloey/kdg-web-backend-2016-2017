@@ -6,12 +6,6 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
-- Deadline 02
-	- Deadline: voor de les van woensdag 13 oktober 2016
-	- Opdracht: tot en met opdracht functions-recursive (slide 85)
-	- Vergeet niet een commit van je opdrachten te doen
-	- Neem de slides/voorbeelden van $_GET/$_POST eens door, daar gaan we mee verder volgende les.
-
 - Deadline 01
 	- Deadline: voor de les van donderdag 6 oktober 2016
 	- Opdracht: opzetten van development omgeving en repository zoals beschreven in de cursus
@@ -1022,8 +1016,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 26. Van Loey Jonas
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: jonas.vanloey@student.kdg.be
+	- GitHub: https://github.com/jonasvanloey/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
