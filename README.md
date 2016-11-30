@@ -11,6 +11,7 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 	- Opdracht: tot en met CRUD update
 	- Vergeet niet een commit van je opdrachten te doen
 	- Neem de slides/voorbeelden tot en met security (slide 186) eens door, daar gaan we mee verder volgende les.
+	- Neem een blauwe muts mee
 
 - Deadline 05 + Periode-opdracht
 	- Deadline: voor de les van donderdag 24 november 2016
@@ -18,7 +19,6 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 	- Vergeet niet een commit van je opdrachten te doen
 	- Neem de slides/voorbeelden tot en met CRUD eens door, daar gaan we mee verder volgende les.
 	- Periode-opdracht 01: http://pascalnosenzo.multimediatechnology.be/web-backend/periode-opdracht-01/
-	- Neem een blauwe muts mee
 
 - Deadline 04
 	- Deadline: voor de les van donderdag 27 oktober 2016
