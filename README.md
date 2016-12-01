@@ -6,6 +6,14 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
+- Deadline 07: CRUD + security
+	- Deadline: voor de les van donderdag 8 december 2016
+	- Opdracht: tot en met Security login (CRUD CMS mag, hoeft niet)
+	- Vergeet niet een commit van je opdrachten te doen
+	- Neem de slides/voorbeelden tot en met AJAX (slide 201) eens door, daar gaan we mee verder volgende les.
+	- Het online feedback moment gaat door op zondag 4/12/2016 om 21u (op hangouts https://hangouts.google.com/group/5H6RfsT5ON17BoK12)
+
+
 - Deadline 06
 	- Deadline: voor de les van donderdag 01 december 2016
 	- Opdracht: tot en met CRUD update
