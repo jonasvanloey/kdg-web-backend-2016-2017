@@ -15,7 +15,7 @@ krsort($linkLijst);
 <head>
 	<meta charset="UTF-8">
 	<title>Web-backend</title>
-	<link rel="stylesheet" href="inthromas.css" type="text/css">
+	<link rel="stylesheet" href="intromas.css" type="text/css">
 </head>
 <body>
 <h1>Web-backend</h1>
